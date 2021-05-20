@@ -153,9 +153,9 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1
+		${ORANGE}      |_|                ${RED}Version : 4.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} M̷̤̝͈͔̭͔͎̕͝ä̵̛̼̪̭̱͕̰̭̹̪̀͊̇̆̏͆͝͝ṉ̴̡̗̩͉͕́̽̇̑̒ü̶̧͉̺͖͈̼̰̟̯͌ë̸̢̧̼̬̰͈̥̘̠̀̓̅͗͆̄̐̒͝͝ļ̴͑͂͐̕ Öf̲̲̅̅ı̲̲̅̅c̲̲̅̅ı̲̲̅̅a̲̲̅̅l̲̲̅̅F̲̲̅̅b Diaz Jiménez (Hacker Devolveper Manuel Diaz )${WHITE}
 	EOF
 }
 
